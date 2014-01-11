@@ -1,2 +1,4 @@
 name: replace_transformer
+version: 0.0.1
 description: A pub transformer that replaceAlls text.
+author: Chris Strom <chris@eeecomputes.com>

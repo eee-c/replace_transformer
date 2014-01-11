@@ -33,7 +33,7 @@ class ReplaceTransformer extends Transformer {
           (m) => replace
         );
 
-        print(fixed);
+        // print(fixed);
         transform.addOutput(new Asset.fromString(input.id, fixed));
       });
   }

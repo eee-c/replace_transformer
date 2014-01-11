@@ -1,5 +1,5 @@
 name: replace_transformer
-version: 0.0.1
+version: 0.0.2
 description: A pub transformer that replaceAlls text.
 author: Chris Strom <chris@eeecomputes.com>
 homepage: https://github.com/eee-c/replace_transformer
